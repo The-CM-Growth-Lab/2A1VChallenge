@@ -1,12 +1,12 @@
 # #2A1VChallenge
 
-Welcome to **#2A1VChallenge**, also called **#2Articles1Video1Week** — an initiative designed to help developers, technical writers, content creators, and DevRel professionals cultivate a consistent habit of creating and sharing content.
+Welcome to **#2A1VChallenge**, also called **#2Articles1Video** per week, which will run for a month. It's an initiative designed to help developers, technical writers, content creators, and DevRel professionals cultivate a consistent habit of creating and sharing content.
 
 ---
 
 ## What is #1Articles1Video1Week?
 
-The goal is simple but powerful: **publish 2 technical articles or 1 video every week**.  
+The goal is simple but powerful: **publish 2 technical articles or 1 video every week** for the next one month.  
 By doing this, you will:
 
 - Build your personal brand and online visibility  
@@ -29,11 +29,11 @@ Creating content consistently is one of the best ways to:
 
 ## How It Works
 
-1. **Plan:** Choose your article and video topics weekly (use our prompts and templates).  
-2. **Create:** Write a technical article and record a short video (tutorial, story, demo, etc.).  
+1. **Plan:** Choose your article and video topics weekly (you can also use our prompts and templates).  
+2. **Create:** Write two technical articles every week or record a short video (tutorial, story, demo, etc.).  
 3. **Publish:** Share your content on social media using the hashtag `#2A1VChallenge`.  
 4. **Engage:** Support fellow participants by giving feedback, sharing, and networking.  
-5. **Repeat:** Keep the momentum going every week!
+5. **Repeat:** Keep the momentum going every week till the month is over.
 
 ---
 
