@@ -71,7 +71,7 @@ Feel free to open an issue or submit a pull request!
 
 ## Join the Challenge!
 
-Ready to commit? Fill out the [form] (https://ladybella.notion.site/217ce4befa48800287e5fb058d72ec2c?pvs=105) to enter the challenge, submit your weekly content, and get featured in shout-outs and collaboration opportunities!
+Ready to commit? Fill out the [form](https://ladybella.notion.site/217ce4befa48800287e5fb058d72ec2c?pvs=105) to enter the challenge, submit your weekly content, and get featured in shout-outs and collaboration opportunities!
 
 ---
 
